@@ -1,0 +1,44 @@
+body
+{
+    color: rgb(143, 188, 143);
+    background-size: contain;
+    text-align: center;
+}
+
+.E
+{
+    font-size: medium;
+    color: rgb(127, 255, 212);
+}
+
+#bad
+{
+    box-shadow: rgb(255, 105, 180) 122 155;
+}
+
+#dab
+{
+    color: rgb(205, 92, 92);
+    font-size: 17px;
+    width: 100%;
+}
+
+footer
+{
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    background-color: #894779;
+    color: rgb(139, 139, 170);
+    box-shadow: mediumslateblue 19 400;
+    font: italic;
+}
+
+canvas
+{
+    color: firebrick;
+    border: fuchsia;
+    border-style: groove;
+    border-width: thick;
+    box-shadow: 5 5 gold;
+}
